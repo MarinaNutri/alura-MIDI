@@ -1,1 +1,2 @@
-# curso de javascript
+#alura-MIDI
+curso de javascript
